@@ -1,0 +1,17 @@
+.bg-img{
+    background-image: url(color.jpg);
+    background-size: cover;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-blend-mode: lighten;
+    
+}
+
+label{
+    color: black;
+}
+.heading h3{
+    font-size: large;
+    font-weight: 500;
+    color: cornflowerblue;
+}

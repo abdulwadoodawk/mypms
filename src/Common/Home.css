@@ -1,0 +1,30 @@
+h1{
+    font-size: 36px;
+    font-weight: 600;
+    margin-top: 5%;
+}
+.home{
+    background-image: url(home.webp);
+    background-size: cover;
+    height: 70vh;
+    background-repeat: no-repeat;
+}
+.campus-col{
+    background-image: url(user.png);
+    flex-basis: 32%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.layer{
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: 0.5s;
+    
+}

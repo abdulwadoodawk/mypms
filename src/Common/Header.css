@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.heading{
+    margin-left: 10px;
+    
+}
+.heading h5:hover{
+    color:#4FC3A1;
+    cursor: pointer;
+
+}
+nav ul{
+    display: flex;
+    margin: 10px;
+}
+nav ul li{
+list-style: none;
+padding: 10px;
+margin-right: 5px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color: #4FC3A1;
+}
+.heading h5 a{
+    color: white;
+    text-decoration: none;
+}
+.heading h5 a:hover{
+    color: #4FC3A1;
+}
